@@ -1,0 +1,106 @@
+{
+    "employees": [
+        {
+            "id": 1,
+            "name": "Tom Johnson"
+        },
+        {
+            "id": 2,
+            "name": "John Thompson"
+        },
+        {
+            "id": 3,
+            "name": "Tommy Jones"
+        },
+        {
+            "id": 4,
+            "name": "Johnny Toms"
+        },
+        {
+            "id": 5,
+            "name": "Tohnny Johms"
+        },
+        {
+            "id": 6,
+            "name": "Tahn Jaüns"
+        }
+    ],
+    "departments": [
+        {
+            "id": 1,
+            "department": "Executive"
+        },
+        {
+            "id": 2,
+            "department": "Marketing"
+        },
+        {
+            "id": 3,
+            "department": "Sales"
+        }
+    ],
+    "computers": [
+        {
+            "id": 1,
+            "computer": "2013 Macbook Pro - CB543928"
+        },
+        {
+            "id": 2,
+            "computer": "2015 Linux Machine - XX1234567"
+        },
+        {
+            "id": 3,
+            "computer": "2018 Toshiba Laptop - 23452354"
+        },
+        {
+            "id": 4,
+            "computer": "2015 Macbook Pro - RT502820"
+        },
+        {
+            "id": 5,
+            "computer": "2019 Toshiba Desktop - 64323727"
+        },
+        {
+            "id": 6,
+            "computer": "2016 Toshiba Laptop - 43942084"
+        }
+    ],
+    "staff": [
+        {
+            "id": 1,
+            "employeeId": 1,
+            "departmentId": 1,
+            "computerId": 5
+        },
+        {
+            "id": 2,
+            "employeeId": 2,
+            "departmentId": 3,
+            "computerId": 6
+        },
+        {
+            "id": 3,
+            "employeeId": 3,
+            "departmentId": 2,
+            "computerId": 4
+        },
+        {
+            "id": 4,
+            "employeeId": 4,
+            "departmentId": 2,
+            "computerId": 1
+        },
+        {
+            "id": 5,
+            "employeeId": 5,
+            "departmentId": 3,
+            "computerId": 3
+        },
+        {
+            "id": 6,
+            "employeeId": 6,
+            "departmentId": 1,
+            "computerId": 2
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+#outputTarget {
+    display: flex;
+    flex-wrap: wrap;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.employee {
+    border: 1px solid black;
+    border-radius: 5px;
+    margin: 5px;
+    padding: 10px 10px 30px 10px;
+    background-image: linear-gradient(0deg, lightblue, lightgreen);
+    text-align: center;
+}
